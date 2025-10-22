@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a fourth year undergraduate student from [School of Computer Science](https://cs.cug.edu.cn/), [China University of Geosciences](https://www.cug.edu.cn/). My research interest includes embodied ai and multimodal large language model.
 
-[//](
+[//]: (
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
